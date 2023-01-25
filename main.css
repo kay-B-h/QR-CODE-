@@ -1,0 +1,22 @@
+body{
+    color:lightgrey ;
+    font-size: 15px;
+    color:hsl(218, 44%, 22%) ;
+    text-align: center;
+}
+.qr-card{
+    width: 25vw;
+    background-color: white;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 6px;
+
+}
+.qr-card img{
+    width: 100%;
+    border-radius: 6px;
+}
+.qr-card h1{
+    font-size: 22px;
+
+}
